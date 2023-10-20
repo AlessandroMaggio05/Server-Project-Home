@@ -1,0 +1,11 @@
+-Ho scaricato Node.js
+
+Il server chat funziona senza nessun problema
+
+Da aggiungere il nome al posto dell'IP
+
+Cambiare alcune variabili sul file index.html
+
+Porta in ascolto:6969
+
+Da controllare un paio di cose. Ma dovrebbe funzionare 
